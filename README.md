@@ -8,6 +8,8 @@ College club site made using WordPress (for practicing WordPress)
 
 ![post grid](/Screenshots/post%20grid.jpg)
 
+![post](/Screenshots/post.jpg)
+
 ![connect with us](/Screenshots/connect%20with%20us.jpg)
 
 ## Development
@@ -24,9 +26,11 @@ Used WordPress 4.9.8-en_GB for developing the site on windows 10
 + **Post Grid** *version 2.0.29* - for displaying post in pages
 
 ### Extra
-+ Learned the use of **OceanWP**, **Ocean Extra**, **Elemntor** from this [video](https://www.youtube.com/watch?v=2cbvZf1jIJM)
++ Learned the use of **OceanWP**, **Ocean Extra**, **Elementor** from this [video](https://www.youtube.com/watch?v=2cbvZf1jIJM)
 + Used [tyler.com/templates](http://www.tyler.com/templates/) for different templates and [google fonts](https://fonts.google.com/) for different fonts
 + Used [000webhost](https://www.000webhost.com/) to host the site
+
+Link to site [it-club-kec.000webhostapp.com](https://it-club-kec.000webhostapp.com)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
