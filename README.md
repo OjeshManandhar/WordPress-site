@@ -30,7 +30,7 @@ Used WordPress 4.9.8-en_GB for developing the site on windows 10
 + Used [tyler.com/templates](http://www.tyler.com/templates/) for different templates and [google fonts](https://fonts.google.com/) for different fonts
 + Used [000webhost](https://www.000webhost.com/) to host the site
 
-Link to site [it-club-kec.000webhostapp.com](https://it-club-kec.000webhostapp.com)
+Link to site [KEC IT Club - Lets make IT happen](https://it-club-kec.000webhostapp.com)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
