@@ -32,5 +32,12 @@ Used WordPress 4.9.8-en_GB for developing the site on windows 10
 
 Link to site [KEC IT Club - Lets make IT happen](https://it-club-kec.000webhostapp.com)
 
+### Login
+Password for the copy of site in this repo
+
+**Username:** *Ojesh*
+
+**Password:** *manandhar*
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
