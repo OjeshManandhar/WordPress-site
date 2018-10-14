@@ -32,6 +32,13 @@ Used WordPress 4.9.8-en_GB for developing the site on windows 10
 
 Link to site [KEC IT Club - Lets make IT happen](https://it-club-kec.000webhostapp.com)
 
+### Further Improvements
+If you're interested, feel free to fork and submit PR.
++ Login/Register page
++ Login using facebook
++ Photo gallary
++ Donation page
+
 ### Login
 Password for the copy of site in this repo
 
