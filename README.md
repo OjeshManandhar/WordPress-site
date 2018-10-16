@@ -32,7 +32,17 @@ Used WordPress 4.9.8-en_GB for developing the site on windows 10
 
 Link to site [KEC IT Club - Lets make IT happen](https://it-club-kec.000webhostapp.com)
 
-### Further Improvements
+## Installation
++ Clone/Download the repository to your local machine. To clone this repository to your local machine,
+  ```cmd
+  git clone https://github.com/OjeshManandhar/WordPress-site.git
+  ```
++ Create a WordPress site locally or online
++ Install **All-in-One WP Migration** plugin
++ Import *it-club-kec.000webhostapp.com-20181014-083918-417.wpress* file using this plugin
++ Use the given **Username** and **Password** to login
+
+## Further Improvements
 If you're interested, feel free to fork and submit PR.
 + Login/Register page
 + Login using facebook
